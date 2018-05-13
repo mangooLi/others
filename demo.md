@@ -28,14 +28,24 @@
 >查看当前正式使用的版本号
 
 ### npm 
->一般安装好node.js之后，也就安装好npm了。在终端中输入npm -v,查看当前npm版本。npm默认从国外的资源获取和下载安装包，有时候会速度比较慢。在命令行中允许
+>一般安装好node.js之后，也就安装好npm了。在终端中输入npm -v,查看当前npm版本。npm默认从国外的资源获取和下载安装包，有时候会速度比较慢。在命令行中运行
     npm config set registry https://registry.npm.taobao.org
 即可设置从国内镜像获取资源。
 >npm 安装完成后，即可愉快地安装所需的任意node.js的第三发包了。
 
 
-## 编辑器的安装使用
->这里选择的编辑器是vscode。进入https://code.visualstudio.com下载安装即可。
+
+## 二、终端
+
+>mac的Terminal终端位于LaunchPad中，打开方式如下:
+
+>1、在LaunchPad中，打开「其他」文件夹，找到终端应用。
+
+>2、直接打开finder窗口，在「应用程序」目录中直接搜索「终端」关键字即可。
+
+>3、Ctrl+Space空格键，在搜索输入框中输入「终端」关键字，点击运行即可。
+
+
 
 
 
